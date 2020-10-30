@@ -174,15 +174,6 @@
                         <div class="col-lg-5 col-md-5">
                             <h2>Live & Upcoming</h2>
                         </div>
-                        <div class="col-lg-7 col-md-7">
-                            <ul class="filter__controls">
-                                <li class="active" data-filter="*">All</li>
-                                <li data-filter=".entrepreneurship">Entrepreneurship</li>
-                                <li data-filter=".media">Media</li>
-                                <li data-filter=".tech">Tech</li>
-                                <li data-filter=".tutorials">Tutorials</li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
                 <div class="row podcast-filter">
@@ -366,19 +357,18 @@
                                 <div class="col-lg-12 mix tutorials">
                                     <div class="podcast__item">
                                         <div class="podcast__item__pic">
-                                            <img src="img/podcast/podcast-4.jpg" alt="">
+                                            <img src="img/podcast/ep1.png" alt="">
                                         </div>
                                         <div class="podcast__item__text">
-                                            <a href="#" class="heart-icon"><i class="fa fa-heart"></i></a>
                                             <ul>
-                                                <li><span class="icon_calendar"></span> 7 Jun 2019 </li>
-                                                <li><span class="icon_profile"></span> by John Smith</li>
-                                                <li><span class="icon_tags_alt"></span> Radio, Musican, Camp</li>
+                                                <li><span class="icon_calendar"></span>Sep 27, 2020</li>
+                                                <li><span class="icon_tags_alt"></span> Tech, Coding, Hackathons</li>
                                             </ul>
-                                            <h4>Episode 01: 6 Powerful Tips To Creating Testimonials That Sell Your</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                                            viverra maecenas accumsan lacus vel facilisis.</p>
+                                            <h4>Episode 01: Analysis of HackMIT</h4>
+                                            <p>In the first ever episode of "The Haleakalan" podcast, the group discusses their experience 
+                                                at a recent hackathon they attended, known as HackMIT. Tune in to learn what exactly a hackathon 
+                                                is, as we explore the ups and downs the group faced. Also your IQ will increase by 9000 after hearing 
+                                                about our morning routines.</p>
                                             <div class="track__option">
                                                 <div class="jp-jplayer jplayer" data-ancestor=".jp_container-4"
                                                 data-url="music-files/6.mp3"></div>
@@ -414,8 +404,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="jp-btns">
-                                                            <a href="#"><i class="social_share"></i> Share</a>
-                                                            <a href="#"><i class="fa fa-download"></i> Download</a>
+                                                            <button onclick = "copyToClipboard('youtu.be/yKGZrxvL0DE')"><i class="social_share"></i>Share</button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -425,6 +414,7 @@
                                 </div>
                             </div>
                         </section>
+
                         <!-- Podcast Section End -->
 
                         <!-- Call To Action Section Begin -->
@@ -574,6 +564,7 @@
                     <script src="js/jquery.slicknav.js"></script>
                     <script src="js/owl.carousel.min.js"></script>
                     <script src="js/main.js"></script>
+                    <script src="js/share.js"></script>
 
                     <!-- Music Plugin -->
                     <script src="js/jquery.jplayer.min.js"></script>
