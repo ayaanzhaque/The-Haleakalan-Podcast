@@ -2,3 +2,7 @@
 
 # [The-Haleakalan-Podcast](http://thehaleakalan.tech)
 Website for "The Haleakalan Podcast" by Haleakala Empire
+
+Youtube Channel: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw/featured
+
+[Please Subscribe!](https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1)
