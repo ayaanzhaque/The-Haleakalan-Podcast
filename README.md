@@ -15,7 +15,7 @@ Instructions for using Youtube to Anchor.fm Github Action Automation, which allo
 
 Code for Github Action: https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan
 
-**Edits must be made in this repo**: https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan/edit/master/episode.json
+**Edits must be made in this file**: https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan/edit/master/episode.json
 
 To upload video, open and edit [`episode.json`](https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan/edit/master/episode.json) by changing the `id:` to the new Youtube video ID. To get Youtube video ID, press the share button, and copy the ID after the .be/. Then press commit changes.
 
