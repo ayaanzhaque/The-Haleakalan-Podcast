@@ -7,7 +7,7 @@ Spotify: https://open.spotify.com/show/1qhyTJiMHELF96Kc32syPA
 
 Youtube Channel: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw/featured
 
-[Please Subscribe!](https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1)
+Subscribe!: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1
 
 ## Youtube to Anchor.fm Github Action
 
