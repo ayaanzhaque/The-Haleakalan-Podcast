@@ -21,4 +21,4 @@ To upload video, open and edit [`episode.json`](https://github.com/ayaanzhaque/y
 
 To view status of upload, click [here](https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan/actions). Wait 3-5 minutes for upload to finish. 
 
-To update Anchor.fm account credentials, go [here](https://github.com/ayaanzhaque/The-Haleakalan-Podcast/settings/secrets/actions). 
+To update Anchor.fm account credentials, go [here](https://github.com/ayaanzhaque/youtube-to-anchorfm-haleakalan/settings/secrets/actions). 
