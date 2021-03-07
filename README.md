@@ -9,6 +9,8 @@ Youtube Channel: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw/featur
 
 Subscribe!: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1
 
+Featured in the Saratoga Falcon: https://saratogafalcon.org/content/juniors-launch-podcast-tackling-range-intriguing-topics
+
 ## Youtube to Anchor.fm Github Action
 
 Instructions for using Youtube to Anchor.fm Github Action Automation, which allows for automatic upload of Youtube Podcast Episodes to Anchor.fm.
