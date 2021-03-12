@@ -1,13 +1,15 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b32dac90-12bd-4a6d-ac9c-bd70d0039be7/deploy-status)](https://app.netlify.com/sites/thehaleakalan/deploys)
 
 # [The-Haleakalan-Podcast](http://thehaleakalan.tech)
-Website for "The Haleakalan Podcast" by Haleakala Empire
+Website for "The Haleakalan Podcast" by the Haleakala Empire
+
+"The Haleakalan" is a podcast that provokes critical thinking about mentally stimulating world issues, life events, and really anything... hosted by 7 high school students.
 
 Spotify: https://open.spotify.com/show/1qhyTJiMHELF96Kc32syPA
 
 Youtube Channel: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw/featured
 
-Subscribe!: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1
+Subscribe: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1
 
 Featured in the Saratoga Falcon: https://saratogafalcon.org/content/juniors-launch-podcast-tackling-range-intriguing-topics
 
